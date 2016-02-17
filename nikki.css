@@ -1,0 +1,56 @@
+::-moz-selection {
+       background-color: #868181;
+       color: #FFF;
+}
+
+
+::selection {
+       background-color: #868181;
+       color: #FFF;
+}
+body{
+background-color:#C0C0C0;
+font-family: 'Actor', sans-serif;
+border : solid 2px black;
+padding:20px;
+margin:5px;
+box-shadow:rgba(110,110,110 , .5) 10px 10px 10px;
+
+}
+header{
+background-color:#EEE;
+text-align:center;
+border : solid 2px black;
+
+height:auto;
+padding:20px;
+margin:5px;
+box-shadow:rgba(110,110,110 , .5) 10px 10px 10px;
+}
+#name{
+font-size:200%;
+color:#0000FF;
+}
+
+#objective,#TechnicalSkills,#AcademicQualification,#ProjectDetails{
+margin:5px;
+border : 2px solid #ABC;
+font-size:110%;
+}
+h1{
+background-color:#ABC;
+color:#FFA500;
+margin:5px;
+}
+h3,li,#objective{
+color:#664400;
+}
+a{
+color:#222;
+margin:5px;
+}
+#Project{
+font-size:150%;
+margin:5px;
+
+}
